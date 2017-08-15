@@ -17,12 +17,11 @@
  webpack是一个 __模块加载工具/打包工具__
  
 ![webpack](http://webpack.github.io/assets/what-is-webpack.png "webpack")
- ### 什么是 webpack-dev-server  
-   ` npm install webpack-dev-server -g `
- webpack-dev-server 是一个轻量级的热重载(修改文件源码后,自动刷新页面同步) __Node服务器__
+ ### 什么是  webpack-dev-server 
+   ` npm install webpack-dev-server -g `  
+ webpack-dev-server 是一个轻量级的热重载(修改文件源码后,自动刷新页面同步) __Node服务器__  
    
  
-   
 ### vue-cli的目录结构
 项目结构
 |-- build                            // 项目构建(webpack)相关代码  
